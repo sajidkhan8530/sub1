@@ -1,2 +1,1 @@
-# sub1
-simple addition code in pythonto substract two numbers.
+print("repo for sub prog in python")
